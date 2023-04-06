@@ -13,7 +13,7 @@ int is_prime_number(int n)
 }
 
 /**
-* pnumber - find the prime number
+* prime_number - find the prime number
 * @x: integer
 * @n: integer
 * Return: 1 if prime or 0 if not
